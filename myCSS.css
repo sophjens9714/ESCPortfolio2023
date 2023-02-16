@@ -38,11 +38,11 @@ a:hover, a:active, a:focus {
 	float: left;
 	width: 100%;
 	height: 60px;
-	text-align: center;
+	text-align: left;
 }
 .content {
 	background: #F5F0EF;
-	margin: 0px;
+	margin: 10px;
 	float: left;
 	width: 100%;
 	text-align: center;
